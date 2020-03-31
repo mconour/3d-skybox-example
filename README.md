@@ -1,4 +1,4 @@
-# 3d-world
+# 3D Skybox Example 
 
 [Demo](https://mconour.github.io/3d-world/)
 
