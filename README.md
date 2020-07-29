@@ -1,5 +1,9 @@
 # 3D Skybox Example 
 
-[Demo](https://mconour.github.io/3d-skybox-example/)
+```
+Languages: JavaScript
+Frameworks & Libraries: Three.js 
+Other: Skybox technique
+```
 
-Created a 3D world with JavaScript using Skybox technique and Three.js
+https://mconour.github.io/3d-skybox-example/
