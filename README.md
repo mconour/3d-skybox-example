@@ -32,23 +32,4 @@ To use this code in your project, follow these steps:
 
 - The `animate()` function repeatedly renders the scene, creating an animation loop.
 
-## Sample Usage
-
-Here is a sample code snippet to get you started:
-
-```html
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>3D Skybox Example</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
-  </head>
-  <body>
-    <script src="your-script.js"></script>
-  </body>
-</html>
-```
-
-Replace `"your-script.js"` with the filename containing the provided JavaScript code.
-
 Have fun exploring your 3D cocoa-themed skybox!
